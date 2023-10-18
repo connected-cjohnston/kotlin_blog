@@ -1,4 +1,4 @@
-package com.fuzzylizard.blog.persistence
+package com.fuzzylizard.blog.repositories
 
 import com.fuzzylizard.blog.models.Article
 import org.springframework.data.jpa.repository.JpaRepository
